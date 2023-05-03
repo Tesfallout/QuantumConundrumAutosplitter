@@ -2,6 +2,7 @@
 // Written by Tesfallout
 // Version 1.0 (4/28/2023)
 // Supports: Start, Split, Load Removal - Reset is not applicable for this run.
+// Original Version of Autosplitter was made by blairmadison11
 
 
 state("TryGame-Win32-Shipping") {
